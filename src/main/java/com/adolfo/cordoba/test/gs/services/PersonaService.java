@@ -2,7 +2,6 @@ package com.adolfo.cordoba.test.gs.services;
 
 import com.adolfo.cordoba.test.gs.entities.postgres.Persona;
 import com.adolfo.cordoba.test.gs.entities.postgres.dto.PersonaDto;
-import com.adolfo.cordoba.test.gs.entities.postgres.dto.UsuarioDto;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

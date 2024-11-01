@@ -1,9 +1,7 @@
 package com.adolfo.cordoba.test.gs.controllers;
 
 import com.adolfo.cordoba.test.gs.entities.postgres.Persona;
-import com.adolfo.cordoba.test.gs.entities.postgres.Rol;
 import com.adolfo.cordoba.test.gs.entities.postgres.dto.PersonaDto;
-import com.adolfo.cordoba.test.gs.entities.postgres.dto.RolDto;
 import com.adolfo.cordoba.test.gs.services.PersonaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
