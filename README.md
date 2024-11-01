@@ -12,3 +12,6 @@ docker stop id
 
 # Swagger-UI
 http://localhost:8080/test-gs/swagger-ui/index.html
+
+# Swagger-UI deploy AWS
+http://3.91.201.64/test-gs/swagger-ui/index.html
