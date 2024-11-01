@@ -12,6 +12,6 @@ public interface UsuarioService {
     public List<Usuario> findAllUsers();
     public Usuario insertUser(UsuarioDto entity);
     public Optional<Usuario> findByUsuario(String usuario);
-    Usuario updateUserByUsuario(UsuarioDto entity);
+    public Usuario updateUserByUsuario(UsuarioDto entity);
     public void deleteUser(String usuario);
 }
