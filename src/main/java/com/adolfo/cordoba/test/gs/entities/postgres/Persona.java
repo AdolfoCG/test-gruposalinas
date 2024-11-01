@@ -26,6 +26,7 @@ public class Persona {
 
     private String pais;
 
+    @Column(columnDefinition = "TEXT")
     private String direccion;
 
     @OneToOne
